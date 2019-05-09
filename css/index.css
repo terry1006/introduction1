@@ -1,0 +1,32 @@
+#aside{
+width: 26%;
+height: 1700px;
+text-align: center;
+background-color:;
+float: right;
+position: absolute;
+right: 65px;
+top: 630px;
+}
+.up{
+position:fixed;
+right:50px;
+bottom: 50px;
+}
+.submit{
+border-radius: 8px;
+background-color: #00DD00;
+text-align: center;
+}
+.logo{
+width: 80px;
+}
+.footer{
+height: 40px;
+background-color: black;
+font-weight: bold;
+text-align: center;
+}
+body{
+font-family: 微軟正黑體;
+}
